@@ -29,3 +29,13 @@ venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 
+## Screenshots
+
+### 1. Password reset question
+![Reset Password](assets/screenshots/01_reset_password.png)
+
+### 2. Agentic AI explanation
+![Agentic AI](assets/screenshots/02_agentic_ai.png)
+
+### 3. Out-of-FAQ question (UPI payments)
+![Out of FAQ](assets/screenshots/03_out_of_faq.png)
