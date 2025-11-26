@@ -22,7 +22,7 @@ A small agentic AI system that answers user questions using:
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/agentic-support-bot.git
+git clone https://github.com/TUSHAR123-PARMAR/agentic-support-bot.git
 cd agentic-support-bot
 python -m venv venv
 venv\Scripts\activate
