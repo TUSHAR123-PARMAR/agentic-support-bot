@@ -25,7 +25,7 @@ A small agentic AI system that answers user questions using:
 [[![Reset Password]](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/01_reset_password.jpg)
 
 ### 2. Agentic AI explanation
-![Agentic AI](assets/screenshots/02_agentic_ai.png)
+![Agentic AI]([assets/screenshots/02_agentic_ai.png](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/02_reset_password.jpg))
 
 ### 3. Out-of-FAQ question (UPI payments)
 ![Out of FAQ](assets/screenshots/03_out_of_faq.png)
