@@ -1,0 +1,14 @@
+Q: How can I reset my account password?
+A: Go to Settings > Security > Reset Password and follow the email instructions.
+
+Q: How do I contact support?
+A: You can email us at support@example.com or use the in-app chat widget.
+
+Q: What is an agentic AI system?
+A: An agentic AI system can reason, use tools like search or APIs, and take actions to achieve user goals autonomously.
+
+Q: How is my data stored?
+A: Your data is encrypted at rest and in transit. We follow industry-standard security practices.
+
+Q: Which cloud platform do you use?
+A: We primarily use AWS for deployment, storage, and monitoring.
