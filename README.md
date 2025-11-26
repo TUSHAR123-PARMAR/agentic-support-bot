@@ -22,7 +22,7 @@ A small agentic AI system that answers user questions using:
 ## Screenshots
 
 ### 1. Password reset question
-![Reset Password](assets/screenshots/01_reset_password.png)
+[![Reset Password]([assets/screenshots/01_reset_password.png](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/01_reset_password.png.jpg)](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/01_reset_password.png.jpg))](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/01_reset_password.png.jpg?raw=true)
 
 ### 2. Agentic AI explanation
 ![Agentic AI](assets/screenshots/02_agentic_ai.png)
