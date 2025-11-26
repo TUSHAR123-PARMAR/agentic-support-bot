@@ -19,16 +19,6 @@ A small agentic AI system that answers user questions using:
 - Scikit-learn (TF–IDF + cosine similarity)
 - OpenAI LLM API
 
-## Run locally
-
-```bash
-git clone https://github.com/TUSHAR123-PARMAR/agentic-support-bot.git
-cd agentic-support-bot
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-streamlit run app.py
-
 ## Screenshots
 
 ### 1. Password reset question
@@ -39,3 +29,15 @@ streamlit run app.py
 
 ### 3. Out-of-FAQ question (UPI payments)
 ![Out of FAQ](assets/screenshots/03_out_of_faq.png)
+
+## Run locally
+
+```bash
+git clone https://github.com/TUSHAR123-PARMAR/agentic-support-bot.git
+cd agentic-support-bot
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
+
+
