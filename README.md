@@ -21,14 +21,24 @@ A small agentic AI system that answers user questions using:
 
 ## Screenshots
 
-### 1. Password reset question
-[![Reset Password]]((https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/01_reset_password.jpg)(assets/screenshots/02_reset_password.jpg))
+## 📸 Screenshots
 
-### 2. Agentic AI explanation
-![Agentic AI]
+### 1️⃣ Password Reset Question
+![Reset Password 1](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/01_reset_password.jpg)
+![Reset Password 2](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/02_reset_password.jpg)
 
-### 3. Out-of-FAQ question (UPI payments)
-![Out of FAQ](assets/screenshots/03_out_of_faq.png)
+---
+
+### 2️⃣ Agentic AI Explanation
+![Agentic AI 1](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/03_agentic_ai.jpg)
+![Agentic AI 2](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/04_agentic_ai.jpg)
+
+---
+
+### 3️⃣ Out-of-FAQ Handling (Example – UPI Payments)
+![Out of FAQ 1](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/05_out_of_faq.jpg)
+![Out of FAQ 2](https://github.com/TUSHAR123-PARMAR/agentic-support-bot/blob/main/assets/screenshots/06_out_of_faq.jpg)
+
 
 ## Run locally
 
